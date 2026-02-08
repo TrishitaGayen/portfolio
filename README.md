@@ -16,6 +16,6 @@ A modern, responsive personal portfolio website built using **React + Vite** to 
 - **Styling:** Tailwind CSS
 - **Email Service:** EmailJS
 - **Build Tool:** Vite
-- **Deployment:** Vercel / Netlify
+- **Deployment:** Vercel 
 
 
