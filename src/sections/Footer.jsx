@@ -4,9 +4,8 @@ import {clamp, motion} from "framer-motion";
 export default function Footer() {
 
 const socials = [
-  {Icon: FaXTwitter, label: "X", href: "https://twitter.com/yourprofile"},
-  {Icon: FaLinkedin, label: "LinkedIn", href: "https://linkedin.com/in/yourprofile"},
-  {Icon: FaGithub, label: "GitHub", href: "https://github.com/yourprofile"}
+  {Icon: FaLinkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/trishita-gayen-3a301b258"},
+  {Icon: FaGithub, label: "GitHub", href: "https://github.com/TrishitaGayen"}
 ];
 
 const glowVariants = {

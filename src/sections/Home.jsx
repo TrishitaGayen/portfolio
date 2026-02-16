@@ -68,14 +68,14 @@ React.useEffect(() => {
             </motion.h1>
 
             <motion.p className="mt-6 text-base sm:text-lg md:text-xl text-gray-300 max-w-2xl mx-auto lg:mx-0" initial={{opacity:0, y:20}} animate={{opacity:1, y:0}} transition={{duration:0.8, delay:0.4}}>
-              I turn complex ideas into seamless, high-impact web experirnces - building modern, scalable, and lightning-fast applications that make a difference.
+              I architect and build modern, scalable, and lightning-fast web applications that turn complex problems into intuitive, high-impact digital solutions.
             </motion.p>
 
             <motion.div className="mt-10 flex flex-wrap items-center justify-center lg:justify-start gap-6" initial={{opacity:0}} animate={{opacity:1}} transition={{duration:0.8, delay:0.8}}>
               <a href="#projects" className=" px-6 py-3 rounded-full font-medium text-lg text-white bg-linear-to-r from-[#1cd8d2] via-[#00bf8f] to-[#302b63] hover:scale-105 transition-all shadow-lg"> 
                 View My Work
               </a>
-              <a href="/Resume.pdf" download className="px-6 py-3 rounded-full font-medium text-black bg-white hover:bg-gray-200 shadow-lg hover:scale-105 transition-all"> 
+              <a href="/Resume1.pdf" download className="px-6 py-3 rounded-full font-medium text-black bg-white hover:bg-gray-200 shadow-lg hover:scale-105 transition-all"> 
                 My Resume 
               </a>
             </motion.div>

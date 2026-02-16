@@ -51,7 +51,7 @@ const glows = [
             </p>
 
             <p className="mt-4 text-gray-400 leading-relaxed text-base sm:text-lg max-w-2xl md:max-w-3xl">
-              I'am Trishita Gayen, a 4th Year Student from Dr. Sudhir Chandra Sur Institute Of Technology & Sports Complex, a Software Developer, Web Developer, Contect Creator - passionate about building fast, resilient applications and sharing coding insights on Linkedin.I build scalable, modern applications with a strong focus on clean architecture, delightful UX, and performance. 
+              I'm Trishita Gayen, 4th Year Student from Dr. Sudhir Chandra Sur Institute Of Technology & Sports Complex, Software Developer, Web Developer - passionate about building fast, resilient applications and sharing coding insights on Linkedin. I build scalable, modern applications with a strong focus on clean architecture, delightful UX, and performance. 
             </p>
 
             <div className="mt-6 grid grid-cols-2 sm:grid-cols-3 sm:gap-4 max-w-xl">
