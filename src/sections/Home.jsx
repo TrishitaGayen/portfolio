@@ -75,7 +75,7 @@ React.useEffect(() => {
               <a href="#projects" className=" px-6 py-3 rounded-full font-medium text-lg text-white bg-linear-to-r from-[#1cd8d2] via-[#00bf8f] to-[#302b63] hover:scale-105 transition-all shadow-lg"> 
                 View My Work
               </a>
-              <a href="/Resume1.pdf" download className="px-6 py-3 rounded-full font-medium text-black bg-white hover:bg-gray-200 shadow-lg hover:scale-105 transition-all"> 
+              <a href="/Resume of Trishita Gayen.pdf" download className="px-6 py-3 rounded-full font-medium text-black bg-white hover:bg-gray-200 shadow-lg hover:scale-105 transition-all"> 
                 My Resume 
               </a>
             </motion.div>
