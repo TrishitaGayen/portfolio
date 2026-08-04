@@ -3,13 +3,13 @@ import { AnimatedBorderButton } from "../components/AnimatedBorderButton"
 
 const experiences = [
   {
-    period: "1st May 2024 - 1sr July 2024",
+    period: "4th May 2024 - 4th May 2025",
     role: "Web Developer",
     company: "Octanet Services Pvt Ltd.",
     description: "Leading frontend & backend architechture for a suite of fintech products.",
     technologies: ["React", "Node.js", "MongoDB"],
     current: true,
-    certificate: "/exp1.pdf" 
+    certificate: "/experience_certificate.pdf" 
   },
   
 ]

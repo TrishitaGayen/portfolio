@@ -6,22 +6,22 @@ const educations = [
     role: "High School(10th)",
     company: "Panchasayar Siksha Niketan(H.S.)",
     duration: "2008-2020",
-    description: "86% | WBBSE",
+    description: "86.29% | WBBSE",
     certificateUrl: "/10th Marksheet.pdf"
   },
   {
     role: "Senior School(12th)",
     company: "Jadavpur Sammilita Balika Vidyalaya",
     duration: "2020-2022",
-    description: "71.6% | WBCHSE",
+    description: "71.60% | WBCHSE",
     certificateUrl: "/12th Marksheet.pdf"
   },
   {
     role: "B.Tech(CSE)",
     company: "Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex",
     duration: "2022-2026",
-    description: "Overall GPA: 7.5/10",
-    certificateUrl: "/btech.png"
+    description: "Overall GPA: 7.47/10",
+    certificateUrl: "/college_certificate.jpeg"
   },
 ];
 
